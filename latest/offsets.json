@@ -40,6 +40,10 @@
       "offset": "+58+58",
       "width": 1080
     },
+    "Google Pixel 6 Pro": {
+      "offset": "+39+69",
+      "width": 1440
+    },
     "Google Pixel Quite": {
       "offset": "+62+252",
       "width": 1080
@@ -49,8 +53,8 @@
       "width": 1080
     },
     "Google Pixel Slate": {
-      "offset": "+161+152",
-      "width": 3000
+      "offset": "+152+161",
+      "width": 2000
     },
     "Google Pixel Very": {
       "offset": "+62+252",
