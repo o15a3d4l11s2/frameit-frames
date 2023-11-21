@@ -332,6 +332,38 @@
       "offset": "+72+64",
       "width": 1170
     },
+    "iPhone 14": {
+      "offset": "+74+61",
+      "width": 1170
+    },
+    "iPhone 14 Midnight": {
+      "offset": "+74+61",
+      "width": 1170
+    },
+    "iPhone 14 Plus": {
+      "offset": "+74+60",
+      "width": 1284
+    },
+    "iPhone 14 Plus Midnight": {
+      "offset": "+74+60",
+      "width": 1284
+    },
+    "iPhone 14 Plus Starlight": {
+      "offset": "+74+60",
+      "width": 1284
+    },
+    "iPhone 14 Pro": {
+      "offset": "+68+58",
+      "width": 1179
+    },
+    "iPhone 14 Pro Max": {
+      "offset": "+67+55",
+      "width": 1290
+    },
+    "iPhone 14 Starlight": {
+      "offset": "+74+61",
+      "width": 1170
+    },
     "iPhone 5c": {
       "offset": "+67+239",
       "width": 640
